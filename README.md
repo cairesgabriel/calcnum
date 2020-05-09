@@ -1,0 +1,2 @@
+# calcnum
+jacobi e newton
